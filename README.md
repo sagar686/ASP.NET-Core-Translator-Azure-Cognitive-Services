@@ -1,0 +1,1 @@
+# ASP.NET-Core-Translator-Azure-Cognitive-Services
